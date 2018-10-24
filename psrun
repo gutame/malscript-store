@@ -1,0 +1,2 @@
+echo Write-Host "echo 'Hello Stranger!!' > $HOME\DESKTOP\HACKED.txt" | powershell.exe -noprofile -
+echo Write-Host "$HOME\DESKTOP\HACKED.txt" | powershell.exe -noprofile -
